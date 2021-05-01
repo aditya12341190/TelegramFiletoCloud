@@ -37,7 +37,7 @@ except KeyError:
 
 
 class msg():
-
+    source = "\nsource: https://t.me/aditya1190"
     start = "\n<b>This bot uploads telegram files to MixDrop.co,File.io.\nAdmin: @aditya1190</b>"
     error = "something is went wrong\n{error} \ncontact admin @aditya1190"
     help = "Usage: <b>Send any file and the bot will upload it to MixDrop.co,File.io</b>"
